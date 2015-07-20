@@ -1,0 +1,22 @@
+{
+"modListVersion": 2,
+"modList": [{
+    "modid": "MyFirstMod",
+    "name": "My First Mod",
+    "description": "This is link1371's First Mod!",
+    "version": "1.0",
+    "mcversion": "1.8",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "link1371", "Pahimar" ],
+    "credits": "Big thanks to Pahimar for teaching me the ancient ways of modding.",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+}]
+}
+

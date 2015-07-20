@@ -1,0 +1,24 @@
+[12:51:29] [Client thread/INFO]: Setting user: Player312
+[12:51:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:51:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:My First Mod
+[12:51:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:51:54] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[12:51:54] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:51:54] [Thread-9/INFO]: OpenAL initialized.
+[12:51:54] [Sound Library Loader/INFO]: Sound engine started
+[12:52:04] [Client thread/INFO]: Created: 16x16 textures-atlas
+[12:52:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:My First Mod
+[12:52:08] [Client thread/INFO]: SoundSystem shutting down...
+[12:52:08] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:52:08] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:52:08] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[12:52:08] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:52:09] [Thread-11/INFO]: OpenAL initialized.
+[12:52:09] [Sound Library Loader/INFO]: Sound engine started
+[12:52:19] [Client thread/INFO]: Created: 512x512 textures-atlas
+[12:52:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[12:52:20] [Client thread/ERROR]: @ Post startup
+[12:52:20] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[12:52:55] [Client thread/INFO]: Stopping!
+[12:52:55] [Client thread/INFO]: SoundSystem shutting down...
+[12:52:55] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
